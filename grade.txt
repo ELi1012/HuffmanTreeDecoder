@@ -1,0 +1,25 @@
+Name:	Evan Li
+SID:	1710828
+TAs:	Jiaqi
+
+CMPUT 274 - Tangible Computing Fall 2022
+Marking Guidelines for Assignment #2: Huffman Coding
+
+-------------------------------------------------------------------------
+Total:			100/100
+
+-------------------------------------------------------------------------
+Correctness :		80/80
+
+- 80/80: Pass all of the provided test inputs
+
+-------------------------------------------------------------------------
+Design and Style:       10/10
+
+- 10/10: Pass all PEP8 guidelines, according to pep8
+-------------------------------------------------------------------------
+README:       10/10
+
+- 10/10: Have a proper README file.
+
+
